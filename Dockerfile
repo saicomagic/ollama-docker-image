@@ -1,1 +1,1 @@
-FROM ollama/ollama:0.3.2
+FROM ollama/ollama:0.3.3
